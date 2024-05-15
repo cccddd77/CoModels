@@ -7,7 +7,7 @@ DATA:
   ZIP_MODE: False
   CACHE_MODE: "part"
   PIN_MEMORY: True
-  NUM_WORKERS: 8
+  NUM_WORKERS: 16
 
 MODEL:
   PRETRAINED: True
